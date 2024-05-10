@@ -1,4 +1,4 @@
-package model;
+package com.brian.springbootapiwithangular.model;
 
 import jakarta.persistence.*;
 
